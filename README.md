@@ -1,3 +1,3 @@
 # hello-world
 Sagar here,
-i like python, C++, JAVA and front-end development (so find me whenever needed in this)
+i like python, C++, JAVA and front-end development ( thats what im made off)
